@@ -1,0 +1,3 @@
+NOMBRE: ka
+PUNTAJE: 0
+NIVEL: 1
